@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **workwithpranav3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Pranav Web Studio(Website) & UI Projects
-- 🌱 **I’m currently learning Roadmap:** React.js, Next.js, TypeScript, Node.js, Express.js, REST APIs, PERN Stack
+- 🌱 **I’m currently learning Roadmap:** React.js, Next.js, TypeScript, Node.js, Express.js, REST APIs, MERN Stack
 - 👯 **I’m looking to collaborate on:** Frontend Web Projects
 - 🤔 **I’m looking for help with:** Scalable Web Applications
 - 💬 **Ask me about:** HTML, CSS, JavaScript & Git/GitHub
